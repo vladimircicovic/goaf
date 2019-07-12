@@ -1,0 +1,2 @@
+# goaf
+Go automatization framework
