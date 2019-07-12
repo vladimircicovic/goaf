@@ -2,11 +2,13 @@
 Go automatization framework
 
 In mines explotation language: Goaf (broken overburden rock)
+
 In tehnical Go language: Go Automatization Framework 
 
 # Main idea
 
 Use all benefit of Go language to build most valuable automatization framework. 
+
 Build code to live, live for building code. 
 
 # Who give idea?
